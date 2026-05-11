@@ -1,6 +1,6 @@
 # Collatz
 
-###Collatz corresponde a melhor seed, para compilar é preciso instalar as seguintes bibliotecas 
+## Collatz corresponde a melhor seed, para compilar é preciso instalar as seguintes bibliotecas 
 
 build-essential \
 mesa-common-dev \
